@@ -1,4 +1,4 @@
-# JavaScript Stack from Scratch
+# Crear un Stack de JavaScript desde Cero
 
 [![Yarn](/img/yarn.png)](https://yarnpkg.com/)
 [![React](/img/react.png)](https://facebook.github.io/react/)
