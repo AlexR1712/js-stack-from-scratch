@@ -12,13 +12,15 @@
 
 [![Build Status](https://travis-ci.org/verekia/js-stack-from-scratch.svg?branch=master)](https://travis-ci.org/verekia/js-stack-from-scratch)
 
-Welcome to my modern JavaScript stack tutorial: **JavaScript Stack from Scratch**.
+Bienvenido al tutorial de: **Crear un Stack de JavaScript  desde cero**.
 
-This is a minimalistic and straight-to-the-point guide to assembling a JavaScript stack. It requires some general programming knowledge, and JavaScript basics. **It focuses on wiring tools together** and giving you the **simplest possible example** for each tool. You can see this tutorial as *a way to write your own boilerplate from scratch*.
+[Versión original (Ingles):](https://github.com/verekia/js-stack-from-scratch) 
 
-You don't need to use this entire stack if you build a simple web page with a few JS interactions of course (a combination of Babel + jQuery is enough!), but if you want to build a web app that scales, and need help setting things up, this tutorial will work great for you.
+Esta guia pretende ser una guía rapida para la formación de un Stack de Javascript adecuado a la actualidad, es necesario conocer almenos en forma general sobre programación, y algunos conceptos básicos de Javascript, la misma describe como usar **ES6, Babel, Gulp, ESLint, React, Redux, Webpack, Immutable, Mocha, Chai, Sinon, y Flow**.  centrado en **cómo usar todas estas herramientas en conjunto de la manera más simple** y con ejemplo de cada herramienta, sin profundizar como tal en cada una de ellas, luego de leer todos estos recursos serás capaz de realizar tus propias versiones desde cero.
 
-Since the goal of this tutorial is to assemble various tools, I do not go into details about how these tools work individually. Refer to their documentation or find other tutorials if you want to acquire deeper knowledge in them.
+No necesitas usar todas las tecnologias que se nombraron anteriormente, si lo que quieres es realizar un simple sitio web, con algo de Javascript, (pero claro una combinación de Babel + jQuery es mas que suficiente), pero si lo que buscas es crear un aplicación web que sea escalable, posiblemente requieras de ayuda para configurar algunas cosas, este tutorial estará genial para tí.
+
+Si deseas conocer una de las herramientas nombradas con mayor profundidad, tomando en cuenta que cada una puede funcionar individualmente, puedes consultar su documentación en los sitios respectivos, o bien buscar más tutoriales al respecto según tus necesidades.
 
 A big chunk of the stack described in this tutorial uses React. If you are beginning and just want to learn React, [create-react-app](https://github.com/facebookincubator/create-react-app) will get you up and running with a React environment very quickly with a premade configuration. I would for instance recommend this approach to someone who arrives in a team that's using React and needs to catch up with a learning playground. In this tutorial you won't use a premade configuration, because I want you to understand everything that's happening under the hood.
 
@@ -32,15 +34,15 @@ The code of this tutorial works on Linux, macOS, and Windows.
 
 ## Table of contents
 
-[1 - Node, NPM, Yarn, and package.json](/tutorial/1-node-npm-yarn-package-json)
+[1 - Node, NPM, Yarn, y package.json](/tutorial/1-node-npm-yarn-package-json)
 
-[2 - Installing and using a package](/tutorial/2-packages)
+[2 - Instalar y usar un paquete](/tutorial/2-packages)
 
-[3 - Setting up ES6 with Babel and Gulp](/tutorial/3-es6-babel-gulp)
+[3 - Instalar y configurar ES6 con Babel y Gulp](/tutorial/3-es6-babel-gulp)
 
-[4 - Using the ES6 syntax with a class](/tutorial/4-es6-syntax-class)
+[4 - Usar la sintaxis  de ES6 con una clase](/tutorial/4-es6-syntax-class)
 
-[5 - The ES6 modules syntax](/tutorial/5-es6-modules-syntax)
+[5 - Sintaxis de modulos en ES6](/tutorial/5-es6-modules-syntax)
 
 [6 - ESLint](/tutorial/6-eslint)
 
@@ -50,25 +52,27 @@ The code of this tutorial works on Linux, macOS, and Windows.
 
 [9 - Redux](/tutorial/9-redux)
 
-[10 - Immutable JS and Redux Improvements](/tutorial/10-immutable-redux-improvements)
+[10 - Mejoras con ImmutableJS y Redux](/tutorial/10-immutable-redux-improvements)
 
-[11 - Testing with Mocha, Chai, and Sinon](/tutorial/11-testing-mocha-chai-sinon)
+[11 - Pruebas con Mocha, Chai, y Sinon](/tutorial/11-testing-mocha-chai-sinon)
 
 [12 - Type Checking with Flow](/tutorial/12-flow)
 
-## Coming up next
+## Que sigue?
 
 Production / development environments, Express, React Router, Server-Side Rendering, Styling, Enzyme, Git Hooks.
 
-## Translations
+## Traducciones
 
 - [Chinese](https://github.com/pd4d10/js-stack-from-scratch) by [@pd4d10](http://github.com/pd4d10)
 - [Italian](https://github.com/fbertone/js-stack-from-scratch) by [Fabrizio Bertone](https://github.com/fbertone)
 
 If you want to add your translation, please read the [translation recommendations](/how-to-translate.md) to get started!
 
-## Credits
+## Créditos
 
-Created by [@verekia](https://twitter.com/verekia) – [verekia.com](http://verekia.com/).
+Creado por [@verekia](https://twitter.com/verekia) – [verekia.com](http://verekia.com/).
+
+Traducido al español por @alexr1712
 
 License: MIT
