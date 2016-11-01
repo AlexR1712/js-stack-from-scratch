@@ -16,7 +16,7 @@ Bienvenido al tutorial de: **Crear un Stack de JavaScript  desde cero**.
 
 [Versión original (Ingles):](https://github.com/verekia/js-stack-from-scratch) 
 
-Esta guia pretende ser una guía rapida para la formación de un Stack de Javascript adecuado a la actualidad, es necesario conocer almenos en forma general sobre programación, y algunos conceptos básicos de Javascript, la misma describe como usar **ES6, Babel, Gulp, ESLint, React, Redux, Webpack, Immutable, Mocha, Chai, Sinon, y Flow**.  centrado en **cómo usar todas estas herramientas en conjunto de la manera más simple** y con ejemplo de cada herramienta, sin profundizar como tal en cada una de ellas, luego de leer todos estos recursos serás capaz de realizar tus propias versiones desde cero.
+Esta guia pretende ser una ayuda rápida para la formación de un Stack de Javascript adecuado a la actualidad, es necesario conocer almenos en forma general sobre programación, y algunos conceptos básicos de Javascript, la misma describe como usar **ES6, Babel, Gulp, ESLint, React, Redux, Webpack, Immutable, Mocha, Chai, Sinon, y Flow**.  centrado en **cómo usar todas estas herramientas en conjunto de la manera más simple** y con ejemplo de cada herramienta, sin profundizar como tal en cada una de ellas, luego de leer todos estos recursos serás capaz de realizar tus propias versiones desde cero.
 
 No necesitas usar todas las tecnologias que se nombraron anteriormente, si lo que quieres es realizar un simple sitio web, con algo de Javascript, (pero claro una combinación de Babel + jQuery es mas que suficiente), pero si lo que buscas es crear un aplicación web que sea escalable, posiblemente requieras de ayuda para configurar algunas cosas, este tutorial estará genial para tí.
 
