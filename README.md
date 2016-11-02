@@ -22,17 +22,15 @@ No necesitas usar todas las tecnologias que se nombraron anteriormente, si lo qu
 
 Si deseas conocer una de las herramientas nombradas con mayor profundidad, tomando en cuenta que cada una puede funcionar individualmente, puedes consultar su documentación en los sitios respectivos, o bien buscar más tutoriales al respecto según tus necesidades.
 
-A big chunk of the stack described in this tutorial uses React. If you are beginning and just want to learn React, [create-react-app](https://github.com/facebookincubator/create-react-app) will get you up and running with a React environment very quickly with a premade configuration. I would for instance recommend this approach to someone who arrives in a team that's using React and needs to catch up with a learning playground. In this tutorial you won't use a premade configuration, because I want you to understand everything that's happening under the hood.
+Una gran parte de los descrito en este tutorial utilizá  React. Si estas iniciandote o buscas aprender React, [create-react-app](https://github.com/facebookincubator/create-react-app) puede ser de ayuda para comenzar rápidamente con un entorno de React preconfigurado. Sin embargo la idea de este tutorial es que veas que sucede detrás de todo, queremos que entiendas que es lo ocurre, usar el [create-react-app](https://github.com/facebookincubator/create-react-app) es muy util si por ejemplo en tu equipo estan usando React y necesitas ponerte al día con un ambiente de pruebas.
 
-Code examples are available for each chapter, and you can run them all with `yarn && yarn start` or `npm install && npm start`. I recommend writing everything from scratch yourself by following the **step-by-step instructions** of each chapter.
+Cada capítulo tiene disponible códigos de ejemplo, los cuales puedes ejecutar con `yarn && yarn start` ó `npm install && npm start`. Te recomendamos que escribas todos desde cero, siquiendo para ello las **instrucciones paso a paso** de cada capítulo.
 
-**Every chapter contains the code of previous chapters**, so if you are simply looking for a boilerplate project containing everything, just clone the last chapter and you're good to go.
+**Cada capítulo contiene código de los anteriores**, por lo que si estás buscando simplemente un proyecto que contiene todo, basta sólo con clonar el último capítulo y estarás al día para usarlo.
 
-Note: The order of chapters is not necessarily the most educational. For instance, testing / type checking could have been done before introducing React. It is quite difficult to move chapters around or edit past ones, since I need to apply those changes to every following chapter. If things settle down, I might reorganize the whole thing in a better way.
+El código de este tutorial funciona en Linux, macOS, y Windows.
 
-The code of this tutorial works on Linux, macOS, and Windows.
-
-## Table of contents
+## Tabla de contenidos
 
 [1 - Node, NPM, Yarn, y package.json](/tutorial/1-node-npm-yarn-package-json)
 
@@ -46,7 +44,7 @@ The code of this tutorial works on Linux, macOS, and Windows.
 
 [6 - ESLint](/tutorial/6-eslint)
 
-[7 - Client app with Webpack](/tutorial/7-client-webpack)
+[7 - Client app con Webpack](/tutorial/7-client-webpack)
 
 [8 - React](/tutorial/8-react)
 
@@ -56,23 +54,21 @@ The code of this tutorial works on Linux, macOS, and Windows.
 
 [11 - Pruebas con Mocha, Chai, y Sinon](/tutorial/11-testing-mocha-chai-sinon)
 
-[12 - Type Checking with Flow](/tutorial/12-flow)
+[12 - Tipos de comprobaciones con Flow](/tutorial/12-flow)
 
 ## Que sigue?
 
-Production / development environments, Express, React Router, Server-Side Rendering, Styling, Enzyme, Git Hooks.
+Producción / Entornos de desarrollo, Express, React Router, Renderizado del lado del servidor, Estilos, Enzyme, Git Hooks.
 
 ## Traducciones
 
 - [Chinese](https://github.com/pd4d10/js-stack-from-scratch) by [@pd4d10](http://github.com/pd4d10)
 - [Italian](https://github.com/fbertone/js-stack-from-scratch) by [Fabrizio Bertone](https://github.com/fbertone)
 
-If you want to add your translation, please read the [translation recommendations](/how-to-translate.md) to get started!
+Si quieres agregar una traduccion, por favor lee las [recomendaciones para traducciones](/how-to-translate.md) para comenzar!
 
 ## Créditos
 
 Creado por [@verekia](https://twitter.com/verekia) – [verekia.com](http://verekia.com/).
-
-Traducido al español por @alexr1712
 
 License: MIT
