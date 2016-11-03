@@ -1,10 +1,10 @@
-# 1 - Node, NPM, Yarn, and package.json
+# 1 - Node, NPM, Yarn, y package.json
 
-In this section we will set up Node, NPM, Yarn, and a basic `package.json` file.
+En esta sección configuraremos Node, NPM, Yarn y un archivo package.json básico.
 
-First, we need to install Node, which is not only used for back-end JavaScript, but all the tools we need to build a modern Front-End stack.
+Primero, necesitamos instalar Node, que no es sólo se utiliza para el Back-End con JavaScript, sino todas las herramientas que necesitamos para crear un Stack Front-End moderno.
 
-Head to the [download page](https://nodejs.org/en/download/current/) for macOS or Windows binaries, or the [package manager installations page](https://nodejs.org/en/download/package-manager/) for Linux distributions.
+Dirigete a la [pagina de descarga](https://nodejs.org/en/download/current/) para obtener los binarios para macOS o Windows, o la [página de instalación vía manejador de paquetes](https://nodejs.org/en/download/package-manager/) para distribuciones Linux.
 
 For instance, on **Ubuntu / Debian**, you would run the following commands to install Node:
 
