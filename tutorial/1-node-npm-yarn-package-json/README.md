@@ -26,7 +26,7 @@ Si deseas cualquier version de Node > 6.5.0
 - Crea un archivo `index.js` que contenga `console.log('Hello world')`.
 - Corre `node .`  en este directorio (`index.js` es el archivo por defecto que Node buscará en el directorio actual). Debería imprimir "Hello world".
 
-En vez de correr `node .`  para ejecutar nuestro programa podemos usar un script NPM/Yarn en su lugar para disparar la ejecucín del código. Esto nos dará una buena abstracción para poder usar `yarn start` o `npm start`, aun cuando nuestro programa se vuelva más complejo.
+En vez de correr `node .`  para ejecutar nuestro programa podemos usar un script NPM/Yarn en su lugar para disparar la ejecución del código. Esto nos dará una buena abstracción para poder usar `yarn start` o `npm start`, aun cuando nuestro programa se vuelva más complejo.
 
 - En `package.json`, añadimos un objeto `scripts` al objeto raíz de la siguiente forma:
 
@@ -47,7 +47,7 @@ npm-debug.log
 yarn-error.log
 ```
 
-**Nota**: Si revisas el archivo `package.json` que esta en este capitulo, verá un script `tutorial-test` en cada capítulo. Estos scripts permiten probar que el capítulo funciona adecuadamente cuando corren `yarn && yarn start`. Puede borrarlos en sus propios proyectos.
+**Nota**: Si revisas el archivo `package.json` que esta en este capítulo, verá un script `tutorial-test` en cada capítulo. Estos scripts permiten probar que el capítulo funciona adecuadamente cuando corren `yarn && yarn start`. Puede borrarlos en sus propios proyectos.
 
 Siguiente Sección: [2 - Instalar y usar un paquete](/tutorial/2-packages)
 
